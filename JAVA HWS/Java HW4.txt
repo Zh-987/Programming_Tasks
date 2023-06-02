@@ -1,0 +1,39 @@
+1. Напишите Generic метод для обмена позициями двух разных элементов в массиве.
+
+2. Generic методы — это очень эффективный способ обработки нескольких типов данных с использованием одного метода.
+
+Допустим, у вас есть массив целых чисел и массив строк. Вы должны написать единственный метод printArray, который может печатать все элементы обоих массивов. Метод должен иметь возможность принимать как массивы целых чисел, так и массивы строк.
+
+Не используйте перегрузку методов, потому что ваш ответ не будет принят.
+
+
+import java.io.IOException;
+import java.lang.reflect.Method;
+
+class Printer
+{
+   // Ваш ответ :)
+}
+
+public class Solution {
+
+
+    public static void main( String args[] ) {
+        Printer myPrinter = new Printer();
+        Integer[] intArray = { 1, 2, 3 };
+        String[] stringArray = {"Hello", "World"};
+        myPrinter.printArray(intArray);
+        myPrinter.printArray(stringArray);
+        int count = 0;
+
+        for (Method method : Printer.class.getDeclaredMethods()) {
+            String name = method.getName();
+
+            if(name.equals("printArray"))
+                count++;
+        }
+
+        if(count > 1)System.out.println("Method overloading is not allowed!");
+      
+    }
+}

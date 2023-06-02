@@ -1,0 +1,11 @@
+1. Hash Table 
+
+https://leetcode.com/problems/integer-to-roman/
+
+2. Linked list 
+
+https://leetcode.com/problems/swap-nodes-in-pairs/
+
+3. Array 
+
+https://leetcode.com/problems/container-with-most-water/

@@ -1,0 +1,13 @@
+HACKERRANK
+
+1. Java Instanceof keyword
+
+https://www.hackerrank.com/challenges/java-instanceof-keyword/problem?isFullScreen=true
+
+
+
+2. Java Method Overriding 2 (Super Keyword)
+
+https://www.hackerrank.com/challenges/java-method-overriding-2-super-keyword/problem?isFullScreen=true
+
+ОТВЕТ В ВИДЕ КОДА И СКРИНА (должно быть видно успешные кейсы и ваш код напишити в коменты ФИО) 

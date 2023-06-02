@@ -1,0 +1,8 @@
+1. Java Annotations
+
+https://www.hackerrank.com/challenges/java-annotations/problem?isFullScreen=true
+
+
+2. Java Method Overriding
+
+https://www.hackerrank.com/challenges/java-method-overriding/problem?isFullScreen=true

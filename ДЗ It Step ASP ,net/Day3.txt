@@ -1,0 +1,6 @@
+Каждое дз надо пушить в один репозиторий но в разных ветвях
+
+Ранее созданный ASP .NET (.NET Framework) веб-приложение добавить 2 контроллера под названием Account и Register
+
+Создать внутри компонента Models классы Аккаунт под полями ID, FirstName , LastName, Password, Email, Gender, CreatedDate
+

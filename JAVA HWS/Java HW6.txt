@@ -1,0 +1,15 @@
+HACKERRANK
+
+1. Java Exception Handling (Try-catch)
+
+https://www.hackerrank.com/challenges/java-exception-handling-try-catch/problem?isFullScreen=true
+
+
+
+2.  Java Exception Handling
+
+https://www.hackerrank.com/challenges/java-exception-handling/problem?isFullScreen=true
+
+
+
+ОТВЕТ В ВИДЕ КОДА И СКРИНА (должно быть видно успешные кейсы и ваш код напишити в коменты ФИО) 
